@@ -1,0 +1,4 @@
+{
+  "name": "Cenário de Teste - Taquicardia e Hipóxia",
+  "description": "Este é um cenário automático gerado para validar a integração dos WebSockets, alertas e PDFs do VitalSim."
+}

@@ -1,0 +1,63 @@
+@import "tailwindcss";
+
+/* Configuração do Protótipo (Tailwind v4) */
+@theme {
+  /* Paleta base */
+  --color-tech-cyan: #00daf3;
+  --color-dark-card: #0b1320;
+
+  /* Tokens Material You / Stitch */
+  --color-surface-container-lowest: #040e1f;
+  --color-surface-container-low:    #0d1b2a;
+  --color-surface-container:        #111e2e;
+  --color-surface-container-high:   #162435;
+  --color-outline-variant: #3b494c;
+  --color-outline: #849396;
+
+  /* On-surface */
+  --color-on-surface:         #d8e3fb;
+  --color-on-surface-variant: #bac9cc;
+  --color-on-primary:         #00363d;
+
+  /* Primary */
+  --color-primary-fixed-dim:   #00daf3;
+  --color-primary-container:   #003640;
+  --color-on-primary-fixed:    #001f24;
+
+  /* Error / severidade */
+  --color-error:            #ffb4ab;
+  --color-error-container:  #93000a;
+
+  /* Warning / Alerta */
+  --color-warning:          #f5c842;
+  --color-warning-container:#3a2e00;
+
+  /* Fonts */
+  --font-headline-lg: "Geist", sans-serif;
+  --font-headline-md: "Geist", sans-serif;
+  --font-label-caps: "JetBrains Mono", monospace;
+  --font-body-md: "Inter", sans-serif;
+
+  /* Font sizes (Stitch scale) */
+  --text-headline-md: 1rem;
+  --text-label-caps:  0.6875rem;
+}
+
+/* ── Utilitários Stitch ─────────────────────────────── */
+.glass-panel {
+  background: rgba(13, 27, 42, 0.75);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.07);
+}
+
+/* Efeitos visuais originais */
+.tech-grid { 
+    background-color: #192436;
+    background-size: 60px 60px; 
+    background-image: linear-gradient(to right, rgba(0, 218, 243, 0.05) 1px, transparent 1px), linear-gradient(to bottom, rgba(0, 218, 243, 0.05) 1px, transparent 1px); 
+}
+
+.input-focus-glow:focus { 
+    box-shadow: 0 0 0 1px #00daf3, 0 0 8px rgba(0, 218, 243, 0.2); 
+}

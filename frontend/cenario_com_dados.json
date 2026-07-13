@@ -1,0 +1,37 @@
+{
+  "name": "Cenário de Teste - Taquicardia, Bradicardia e Hipóxia",
+  "description": "Cenário com dados temporais reais para disparar as regras de teste e verificar a pressão arterial",
+  "mdibVersion": 1,
+  "device": "Monitor VitalSim",
+  "metrics": [
+    { "handle": "HEART_RATE", "unit": "bpm", "value": 80.0, "timestamp": "2024-03-01T12:00:00Z" },
+    { "handle": "SPO2", "unit": "%", "value": 99.0, "timestamp": "2024-03-01T12:00:00Z" },
+    { "handle": "ArterialPressure_Systolic", "unit": "mmHg", "value": 120.0, "timestamp": "2024-03-01T12:00:00Z" },
+    { "handle": "ArterialPressure_Diastolic", "unit": "mmHg", "value": 80.0, "timestamp": "2024-03-01T12:00:00Z" },
+    
+    { "handle": "HEART_RATE", "unit": "bpm", "value": 85.0, "timestamp": "2024-03-01T12:00:01Z" },
+    { "handle": "SPO2", "unit": "%", "value": 98.0, "timestamp": "2024-03-01T12:00:01Z" },
+    { "handle": "ArterialPressure_Systolic", "unit": "mmHg", "value": 125.0, "timestamp": "2024-03-01T12:00:01Z" },
+    { "handle": "ArterialPressure_Diastolic", "unit": "mmHg", "value": 82.0, "timestamp": "2024-03-01T12:00:01Z" },
+    
+    { "handle": "HEART_RATE", "unit": "bpm", "value": 125.0, "timestamp": "2024-03-01T12:00:02Z" },
+    { "handle": "SPO2", "unit": "%", "value": 95.0, "timestamp": "2024-03-01T12:00:02Z" },
+    { "handle": "ArterialPressure_Systolic", "unit": "mmHg", "value": 140.0, "timestamp": "2024-03-01T12:00:02Z" },
+    { "handle": "ArterialPressure_Diastolic", "unit": "mmHg", "value": 90.0, "timestamp": "2024-03-01T12:00:02Z" },
+    
+    { "handle": "HEART_RATE", "unit": "bpm", "value": 130.0, "timestamp": "2024-03-01T12:00:03Z" },
+    { "handle": "SPO2", "unit": "%", "value": 91.0, "timestamp": "2024-03-01T12:00:03Z" },
+    { "handle": "ArterialPressure_Systolic", "unit": "mmHg", "value": 150.0, "timestamp": "2024-03-01T12:00:03Z" },
+    { "handle": "ArterialPressure_Diastolic", "unit": "mmHg", "value": 95.0, "timestamp": "2024-03-01T12:00:03Z" },
+    
+    { "handle": "HEART_RATE", "unit": "bpm", "value": 40.0, "timestamp": "2024-03-01T12:00:04Z" },
+    { "handle": "SPO2", "unit": "%", "value": 90.0, "timestamp": "2024-03-01T12:00:04Z" },
+    { "handle": "ArterialPressure_Systolic", "unit": "mmHg", "value": 90.0, "timestamp": "2024-03-01T12:00:04Z" },
+    { "handle": "ArterialPressure_Diastolic", "unit": "mmHg", "value": 60.0, "timestamp": "2024-03-01T12:00:04Z" },
+
+    { "handle": "HEART_RATE", "unit": "bpm", "value": 35.0, "timestamp": "2024-03-01T12:00:05Z" },
+    { "handle": "SPO2", "unit": "%", "value": 88.0, "timestamp": "2024-03-01T12:00:05Z" },
+    { "handle": "ArterialPressure_Systolic", "unit": "mmHg", "value": 85.0, "timestamp": "2024-03-01T12:00:05Z" },
+    { "handle": "ArterialPressure_Diastolic", "unit": "mmHg", "value": 55.0, "timestamp": "2024-03-01T12:00:05Z" }
+  ]
+}
