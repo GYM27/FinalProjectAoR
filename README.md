@@ -85,10 +85,10 @@ By processing complex data streams from advanced physiological simulation engine
 Images
 
 <img width="402" height="882" alt="dashboardmobile" src="https://github.com/user-attachments/assets/a1eb4d1a-bbca-44cd-abe2-15bcac289089" />
+<img width="397" height="870" alt="dashboardmobile2" src="https://github.com/user-attachments/assets/8ff12e52-253b-4d47-9505-03bb1fa92efa" />
 <img width="1910" height="972" alt="userimage" src="https://github.com/user-attachments/assets/e57abcc3-3e48-4414-9960-3e6178c3bb0c" />
 <img width="1891" height="975" alt="Rulesimage" src="https://github.com/user-attachments/assets/db76a596-4ba5-4034-ad2d-87a38d8cda52" />
 <img width="1887" height="981" alt="Historicoimage" src="https://github.com/user-attachments/assets/e24d74c8-d7b9-4f64-b4c2-0fcd7e6c341d" />
-<img width="397" height="870" alt="dashboardmobile2" src="https://github.com/user-attachments/assets/8ff12e52-253b-4d47-9505-03bb1fa92efa" />
 <img width="1890" height="971" alt="Corpo2Dalertas" src="https://github.com/user-attachments/assets/ac738b30-e522-47b9-a136-6503b69f35aa" />
 
 
